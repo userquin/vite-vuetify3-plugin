@@ -1,0 +1,5 @@
+@use 'vuetify/settings' with (
+ $button-border-radius: 16px,
+ $sheet-border-radius: 16px,
+ $card-border-radius: 16px
+);

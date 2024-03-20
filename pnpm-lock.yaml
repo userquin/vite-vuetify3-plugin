@@ -41,7 +41,7 @@ devDependencies:
     specifier: ^0.26.0
     version: 0.26.0(vue@3.4.21)
   vite:
-    specifier: ^5.2.2
+    specifier: ^5.1.6
     version: 5.2.2(@types/node@20.11.30)(sass@1.72.0)
   vite-plugin-vuetify:
     specifier: file:vite-plugin-vuetify-v2.0.3.tgz
@@ -1057,7 +1057,7 @@ packages:
     dev: true
 
   file:vite-plugin-vuetify-v2.0.3.tgz(vite@5.2.2)(vue@3.4.21)(vuetify@3.5.11):
-    resolution: {integrity: sha512-KQVvgCeaupfqIJ+vOt52DobQoNlb9agzp25pIkE5tXDRF/puVBIQkngKe1EQKt+PTzoa9uU5qZ+lArrbMtCo2Q==, tarball: file:vite-plugin-vuetify-v2.0.3.tgz}
+    resolution: {integrity: sha512-1BROGIvBxPOk593+h9nEy3Y1rOOO5au7+ncCtJdWVKEjpkZiyzuMMZlUkpctI4RP3IX2MP6uzCsBOjslT9PSPg==, tarball: file:vite-plugin-vuetify-v2.0.3.tgz}
     id: file:vite-plugin-vuetify-v2.0.3.tgz
     name: vite-plugin-vuetify
     version: 2.0.3
