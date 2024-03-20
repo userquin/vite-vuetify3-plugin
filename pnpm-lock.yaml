@@ -41,7 +41,7 @@ devDependencies:
     specifier: ^0.26.0
     version: 0.26.0(vue@3.4.21)
   vite:
-    specifier: ^5.1.6
+    specifier: ^5.2.2
     version: 5.2.2(@types/node@20.11.30)(sass@1.72.0)
   vite-plugin-vuetify:
     specifier: file:vite-plugin-vuetify-v2.0.3.tgz
